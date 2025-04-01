@@ -1,5 +1,4 @@
 #include "ship.h"
-
 #include <algorithm>
 #include <cassert>
 #include <random>
